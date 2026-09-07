@@ -25,7 +25,7 @@ Computer Science student at Farmingdale State College, focused on AI/ML and cybe
 
 ## Tech Stack
 
-`Python` `JavaScript/TypeScript` `Node.js` `React` `PostgreSQL` `Docker` `Kubernetes` `PyTorch`
+`Python` `JavaScript/TypeScript` `Node.js` `React` `PostgreSQL` 
 
 ---
 
