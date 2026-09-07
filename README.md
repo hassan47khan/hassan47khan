@@ -32,6 +32,6 @@ Computer Science student at Farmingdale State College, focused on AI/ML and cybe
 ## Let's Connect
 
 📫 [hassan.c.khan@outlook.com](mailto:hassan.c.khan@outlook.com)
-💼 [LinkedIn](https://linkedin.com/in/hassan-khan-chani)
+💼 [LinkedIn](www.linkedin.com/in/hassan-khan-03a095386)
 
 Open to AI/ML, cybersecurity, and software engineering internship opportunities — feel free to reach out.
