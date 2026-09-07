@@ -11,9 +11,9 @@ Computer Science student at Farmingdale State College, building AI-integrated fu
 
 ## Featured Projects
 
-**Trimly — AI Booking Concierge Platform**
+**Trimly — AI Booking Concierge Platform (still in progress)**
 `React 19` `TypeScript` `Node.js` `PostgreSQL` `Claude API`
-Full-stack multi-tenant SaaS platform enabling AI-powered booking agents for independent salons and barbershops — handling client conversations across SMS, WhatsApp, email, and voice 24/7. Integrates Anthropic Claude tool-use agents with Zod-validated inputs, webhook idempotency guards, Stripe billing, and real-time Socket.io event streaming across a Capacitor-wrapped native app.
+Full-stack multi-tenant SaaS platform enabling AI-powered booking agents for independent salons and barbershops — handling client conversations across SMS, WhatsApp, email, and voice 24/7. Integrates Anthropic Claude tool-use agents with Zod-validated inputs, webhook idempotency guards, Stripe billing, and real-time Socket.io event streaming across a Capacitor-wrapped native app. 
 
 **Full-Stack Movie Recommendation System**
 `Python` `REST API` `SQL` `Git`
