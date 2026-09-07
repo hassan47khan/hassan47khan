@@ -13,7 +13,7 @@ Computer Science student at Farmingdale State College, focused on AI/ML and cybe
 
 ## Featured Projects
 
-**[Trimly](https://github.com/hassan47khan)** — Solo-built multi-tenant AI SaaS booking platform
+**Trimly** — Solo-built multi-tenant AI SaaS booking platform
 `Node.js` `PostgreSQL` `React` `Stripe` `Socket.io` `Anthropic Tool-Use API`
 
 **AI/ML Infrastructure Track** — a sequence of high-signal ML systems projects:
