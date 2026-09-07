@@ -12,7 +12,7 @@ Computer Science student at Farmingdale State College, building AI-integrated fu
 
 ## Featured Projects
 
-**[Trimly — AI Booking Concierge Platform](https://github.com/hassan47khan)**
+**[Trimly — AI Booking Concierge Platform]**
 `React 19` `TypeScript` `Node.js` `PostgreSQL` `Claude API`
 Full-stack multi-tenant SaaS platform enabling AI-powered booking agents for independent salons and barbershops — handling client conversations across SMS, WhatsApp, email, and voice 24/7. Integrates Anthropic Claude tool-use agents with Zod-validated inputs, webhook idempotency guards, Stripe billing, and real-time Socket.io event streaming across a Capacitor-wrapped native app.
 
@@ -40,6 +40,6 @@ Multimodal productivity application integrating Google Gemini APIs for vision, t
 ## Let's Connect
 
 📫 [hassan.c.khan@outlook.com](mailto:hassan.c.khan@outlook.com)
-💼 [LinkedIn](https://linkedin.com/in/hassan-khan-chani)
+💼 [LinkedIn](https://www.linkedin.com/in/hassan-khan-03a095386/)
 
 Open to software engineering, ML, and cybersecurity internship opportunities — feel free to reach out.
