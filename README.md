@@ -3,7 +3,6 @@
 Computer Science student at Farmingdale State College, building AI-integrated full-stack applications. Seeking software engineering, machine learning, or cybersecurity internship opportunities.
 
 - 🎓 CS student at Farmingdale State College — GPA 3.6, President's List & Dean's List — expected graduation May 2028
-- 💻 Skilled in React, TypeScript, Python, and SQL
 - 🔐 Background in digital forensics and cybersecurity (OSINT, threat analysis)
 - 🌏 Bilingual — English & Urdu
 - 🥇 First-generation college student
