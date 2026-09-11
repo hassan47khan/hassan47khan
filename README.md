@@ -11,17 +11,18 @@ Computer Science student at Farmingdale State College, building AI-integrated fu
 
 ## Featured Projects
 
-**Trimly — AI Booking Concierge Platform (still in progress)**
+**SubTrak: AI-Powered Subscription Tracker (in progress)**
+`Django` `Django REST Framework` `MongoDB` `React Native`
+- Serving as Project Manager for a team building a mobile subscription-tracking app with an AI-    driven feature, as part of Farmingdale State College's CSC 325 Capstone course.
+- Coordinating sprint planning, backlog priorities, and cross-functional delivery across a         Django REST Framework backend, MongoDB, and React Native frontend.
+
+**Trimly — AI Booking Concierge Platform (on hold)**
 `React 19` `TypeScript` `Node.js` `PostgreSQL` `Claude API`
 Full-stack multi-tenant SaaS platform enabling AI-powered booking agents for independent salons and barbershops — handling client conversations across SMS, WhatsApp, email, and voice 24/7. Integrates Anthropic Claude tool-use agents with Zod-validated inputs, webhook idempotency guards, Stripe billing, and real-time Socket.io event streaming across a Capacitor-wrapped native app. 
 
 **Full-Stack Movie Recommendation System**
 `Python` `REST API` `SQL` `Git`
 RESTful API recommendation engine trained on the MovieLens dataset using collaborative filtering. Implemented backend caching and optimized data pipelines to reduce inference latency and improve response times under load.
-
-**AI-Powered Productivity Platform**
-`React` `TypeScript` `Google Gemini API`
-Multimodal productivity application integrating Google Gemini APIs for vision, text, and content generation. Responsive React/TypeScript frontend supporting file uploads, prompt chaining, and real-time AI-generated output.
 
 ---
 
