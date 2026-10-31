@@ -1,5 +1,5 @@
 <a href="https://hassan47khan.github.io">
-  <img src="banner.jpg" alt="Hassan Khan: CS student at Farmingdale who builds AI agents end to end" width="100%">
+  <img src="banner.jpg" alt="Hassan Khan: CS student at Farmingdale, aspiring software engineer" width="100%">
 </a>
 
 ### CS student at Farmingdale State College who builds AI agents end to end, from tool calls and databases to the app on your phone.
