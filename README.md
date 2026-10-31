@@ -18,7 +18,6 @@ I'm a third-year Computer Science student (3.6 GPA, President's List and Dean's 
 | --- | --- | --- |
 | **Trimly** · *on hold* | A multi-tenant SaaS I built solo. AI booking agents answer clients of independent salons and barbershops over SMS, WhatsApp, email and voice, at any hour. Claude tool-use agents with Zod-validated inputs, webhook idempotency guards, Stripe billing and real-time Socket.io streaming, packaged as a native app with Capacitor. | React 19, TypeScript, Node.js, PostgreSQL, Claude API |
 | **[SubTrak](https://github.com/hassan47khan/Capstone-Project)** · *in progress* | A mobile subscription tracker with an AI-driven feature, built for Farmingdale's CSC 325 capstone. As project manager I run sprint planning and backlog priorities across the backend, database and app. | Django REST Framework, MongoDB, React Native |
-| **ReAct agent from scratch** | An agent in plain JavaScript with no framework: raw tool-calling logic and a think, act, observe loop, written by hand to understand how agents actually reason. | JavaScript, LLM tool calling |
 | **[Movie recommender](https://github.com/hassan47khan/Movie-Recommender)** | A REST API recommendation engine using collaborative filtering on the MovieLens dataset, with backend caching and optimized data pipelines to cut latency under load. | Python, SQL, REST |
 | **OSINT investigation** | A digital forensics investigation built from open sources, with every finding traced back to where it was found. | OSINT, digital forensics |
 
